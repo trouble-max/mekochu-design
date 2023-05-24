@@ -14,11 +14,11 @@ Helpful links:
 Navigation:
 * Design System
   * Components
-    1 [Buttons]()
-    2 [Cards]()
-    3 [Inputs]()
-    4 [iOS System]()
-    5 [Navigation]()
+    1. [Buttons]()
+    2. [Cards]()
+    3. [Inputs]()
+    4. [iOS System]()
+    5. [Navigation]()
   * Foundation
   * Recipes
 * Final Composition
