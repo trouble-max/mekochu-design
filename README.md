@@ -12,14 +12,30 @@ Helpful links:
 * [Final Composition - Mekochu](https://www.figma.com/file/QCLjPpuZkFKcsUJLZhAZcw/Final-Composition-Mekochu?type=design&t=QjLMXdTPXL8jWfKm-6)
 
 Navigation:
-* Design System
-  * Components
-    1. [Buttons]()
-    2. [Cards]()
-    3. [Inputs]()
-    4. [iOS System]()
-    5. [Navigation]()
+* Design System - Mekochu
   * Foundation
+    1. [Logo]()
+    2. [Colors]()
+    3. [Grids & Spacing]()
+    4. [Iconography]()
+    5. [Typography]()
+  * Components
+    1. [iOS System]()
+    2. [Buttons]()
+    3. [Cards]()
+    4. [Inputs]()
+    5. [Navigation]()
   * Recipes
-* Final Composition
-  * 
+    1. [Orders]()
+* Final Composition - Mekochu
+  * Final Compositions
+    1. [Login + Registration]()
+    2. [Home]()
+    3. [Cart + Checkout]()
+    4. [Category + Product]()
+  * High Fidelity Prototypes
+    1. [Login]()
+    2. [Registration + Card Validation]()
+    3. [Product]()
+    4. [Add to cart]()
+    5. [Change from cart]()
